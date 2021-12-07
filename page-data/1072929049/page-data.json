@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/1072929049/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Pajandrum Club Blog"}},"markdownRemark":{"id":"f0c0e47f-de14-52b9-b87d-08319ea235c1","excerpt":"新しくブログを作ってみました github の issue を CMS にして、Gatsby.js で実装しています\nブラウザ上で執筆できるので環境構築が不要で楽ですね author : yn4k4nishi","html":"<p>新しくブログを作ってみました</p>\n<p>github の issue を CMS にして、Gatsby.js で実装しています\nブラウザ上で執筆できるので環境構築が不要で楽ですね</p>\n<p>author : yn4k4nishi</p>","frontmatter":{"title":"Hello New Blog","date":"December 07, 2021","description":null}},"previous":null,"next":{"fields":{"slug":"/1072987119/"},"frontmatter":{"title":"画像テスト"}}},"pageContext":{"id":"f0c0e47f-de14-52b9-b87d-08319ea235c1","previousPostId":null,"nextPostId":"eede725c-cba6-57a9-809d-8907eb427387"}},
+    "staticQueryHashes": ["1205345364","2841359383"]}
